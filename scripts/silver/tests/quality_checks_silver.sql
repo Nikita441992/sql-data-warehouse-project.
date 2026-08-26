@@ -1,3 +1,6 @@
+git rm -r --cached path/to/folder
+git commit -m "stop tracking folder"
+git push origin quality_checks_silver.sql
 /*
 ===============================================================================
 Quality Checks
